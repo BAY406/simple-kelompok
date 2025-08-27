@@ -28,7 +28,8 @@ python3 kelompok.py
 ```
 
 ### Edit List
-Edit isi dari 'list.txt' dan masukkan nama anggota kelas kamu.
+Edit isi dari `list.txt` dan masukkan nama anggota kelas kamu.
+
 
 
 
