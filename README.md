@@ -13,7 +13,7 @@ Skrip Python sederhana untuk membagi daftar nama ke dalam kelompok secara otomat
 ---
 
 ## 🛠 Teknologi yang Digunakan
-- **Python 3** (tanpa library tambahan)
+- **Python 3**
 
 ---
 
@@ -25,4 +25,5 @@ Pastikan sudah menginstal Git. Lalu jalankan:
 git clone https://github.com/BAY406/simple-kelompok.git
 cd simple-kelompok
 python3 kelompok.py
+
 
