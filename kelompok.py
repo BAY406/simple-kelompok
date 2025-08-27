@@ -1,3 +1,12 @@
+'''
+
+Semoga terbantu dengan adanya tool ini <3
+Day 3 Kuliah njier
+
+- Created by BAY406 -
+
+'''
+
 import random
 import math
 
