@@ -26,4 +26,7 @@ git clone https://github.com/BAY406/simple-kelompok.git
 cd simple-kelompok
 python3 kelompok.py
 
+### Edit List
+Edit isi dari 'list.txt' dan masukkan nama anggota kelas kamu.
+
 
